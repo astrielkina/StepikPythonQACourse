@@ -1,0 +1,2 @@
+# StepikPythonQACourse
+task for course
